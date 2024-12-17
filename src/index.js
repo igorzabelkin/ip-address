@@ -30,7 +30,7 @@ const map = L.map(mapArea,{
 })
 
 addTitleLayer(map);
-
+//hi!
 //L.marker([51.505, -0.09]).addTo(map);
 
 L.marker([51.505, -0.09], {icon: myIcon}).addTo(map);
